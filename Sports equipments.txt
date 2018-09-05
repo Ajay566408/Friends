@@ -3,3 +3,5 @@ Bat
 Ball
 hockey stick
 pad
+gloves
+shoes
