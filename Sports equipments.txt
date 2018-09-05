@@ -5,3 +5,8 @@ hockey stick
 pad
 gloves
 shoes
+helmet
+football
+slagger
+softball
+baseball
